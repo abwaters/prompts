@@ -30,6 +30,10 @@ The full system prompt lives in [`prompt.md`](./prompt.md).
 
 I hesitate to call this a finished language-learning system. It's an experiment, and I expect it to change.
 
+## Contributing
+
+Suggestions and changes are genuinely welcome. If you spot an error, have a better turn of phrase, or want to propose new behavior, please [open a pull request](https://github.com/abwaters/prompts/pulls) — or file an issue with your recommendation. Changes to the prompt, this README, or the design are all fair game.
+
 ---
 
 *Learning Spanish instead? See the sibling GPT, [Conversaciones con María](../maria-spanish-conversation/).*
