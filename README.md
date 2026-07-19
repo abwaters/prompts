@@ -32,5 +32,6 @@ Each prompt lives in its own folder containing:
 
 - `README.md` — what it does, how it behaves, and a link to the live GPT.
 - `prompt.md` — the prompt text itself.
+- `design-notes.md` — why it's written the way it is: goals, tradeoffs, and the tensions accepted on purpose.
 
 Plus any supporting files a prompt needs.
